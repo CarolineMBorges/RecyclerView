@@ -1,0 +1,7 @@
+Esse app foi criado com o objetico de estudar sobre o RecyclerView.
+
+O RecyclerView tem básicamente 3 componentes essenciais: 
+LayoutManager: Usado para montar o RecyclerView
+Adapter: Funciona como adaptador, retorna dados diferentas para a listagem. Pega a lista 
+	 e cria um layout individual para a listagem.
+Dataset: dados
